@@ -30,7 +30,7 @@ I'm currently logged on to the Tech Resolve ticketing system and I currently hav
 <br />
 I boot into the computer that needs the new OS. I access the BIOS and click on System Configuration > Integrated Nic and tick the "Enabled with PXE". Press apply.
  <br/>
-<img src="https://i.imgur.com/g2M5WMh.png" height="80%" width="80%" alt="pxe"/>
+<img src="https://i.imgur.com/IiFmBJ1.png" height="80%" width="80%" alt="pxe"/>
 <br />
 <br />
 Under Boot Sequence. tick the Onboard Nic. Press apply then exit.
