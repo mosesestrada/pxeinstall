@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/VIj91W0.jpg" height="80%" width="80%" alt="pxelogo"/>
 </p>
 
-<h1>Create a Windows System Restore Point</h1>
+<h1>PXE (Preboot Execution Environment) Windows install</h1>
 
 
 <h2>Description</h2>
