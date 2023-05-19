@@ -6,7 +6,6 @@
 
 
 <h2>Description</h2>
-Simplified PXE Windows Installation: Installing Windows Over the Network
 
 In this demonstration, we'll explore a straightforward and efficient method of installing the Windows operating system. Say goodbye to the need for physical media like DVDs or USB drives. With PXE (Preboot Execution Environment) Windows install, you can effortlessly boot your computer using the PXE protocol and retrieve the necessary installation files from a network server.
 
