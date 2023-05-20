@@ -28,7 +28,7 @@ I'm currently logged on to the Tech Resolve ticketing system and I currently hav
 <img src="https://i.imgur.com/EqoS1db.png" height="80%" width="80%" alt="pxe"/>
 <br />
 <br />
-I boot into the computer that needs the new OS. I access the BIOS and click on System Configuration > Integrated Nic and tick the "Enabled with PXE". Press apply.
+I boot into the computer that needs the new OS. I access the BIOS/EUFI and click on System Configuration > Integrated Nic and tick the "Enabled with PXE". Press apply.
  <br/>
 <img src="https://i.imgur.com/IiFmBJ1.png" height="80%" width="80%" alt="pxe"/>
 <br />
