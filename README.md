@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/VIj91W0.jpg" height="80%" width="80%" alt="pxelogo"/>
+ <img src="https://i.imgur.com/WnXKNjo.jpg" height="80%" width="80%" alt="pxelogo"/>
 </p>
 
 <h1>PXE (Preboot Execution Environment) Windows install</h1>
@@ -57,7 +57,7 @@ Back in the Tech Resolve ticketing system, I can now enter a comment that the Op
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/IyQpDEy.jpg" height="80%" width="80%" alt="pxe"/>
+<img src="https://i.imgur.com/5s1XxlM.jpg" height="80%" width="80%" alt="pxe"/>
 <br />
 <br />
 
