@@ -23,7 +23,7 @@ Today, we'll walk you through a quick and straightforward PXE Windows installati
 
 
 <br />
-I'm currently logged on to the Tech Resolve ticketing system and I currently have a ticket needing a workstation to have a new OS installed.
+I'm currently logged on to the Tech Resolve ticketing system and I currently have a ticket needing a workstation to have a new Operating System installed.
  <br/>
 <img src="https://i.imgur.com/EqoS1db.png" height="80%" width="80%" alt="pxe"/>
 <br />
